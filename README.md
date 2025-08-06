@@ -1,5 +1,5 @@
 # TS_skinhub
-Welcome to the skinhub, this repository archives and showcases lots of player-made skins for the rhythm game osu!. Enjoy looking around, click file names/images to download the skins.
+This is 'Halcyon', a place where old player's skins lay to rest.
 ### DISCLAIMER: This 'skinhub' is ENTIRELY different from my 'skin archive'. do not confuse these two.
 
 
